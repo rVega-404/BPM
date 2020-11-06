@@ -51,6 +51,8 @@ public class Home_act extends AppCompatActivity {
         ArrayList<String> clientes = new ArrayList<>();
         clientes.add("Axel");
         clientes.add("Roxana");
+        clientes.add("Betzabe");
+        clientes.add("Matias");
 
         ArrayList<String> creditos = new ArrayList<>();
         creditos.add("Crédito Hipotecario");

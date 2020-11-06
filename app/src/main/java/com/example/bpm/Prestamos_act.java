@@ -40,6 +40,8 @@ public class Prestamos_act extends AppCompatActivity {
             saldoCliente = 750000;
         } else if (cliente.equalsIgnoreCase("Roxana")) {
             saldoCliente = 900000;
+        } else {
+            saldoCliente = 0;
         }
 
         if (tipoCredito.equalsIgnoreCase("Crédito Hipotecario")) {
